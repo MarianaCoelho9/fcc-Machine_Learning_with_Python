@@ -6,7 +6,7 @@ In the Machine Learning with Python Certification of FreeCodeCamp, you'll use th
 
 ## Challenges:
 
-- Rock Paper Scissors
+- Rock Paper Scissors (fcc_rock_paper_scissors)
 
 Create a program to play Rock, Paper, Scissors. A program that picks at random will usually win 50% of the time. To pass this challenge your program must play matches against four different bots, winning at least 60% of the games in each match.
 
@@ -14,14 +14,14 @@ Create a program to play Rock, Paper, Scissors. A program that picks at random w
 
 Complete the code to classify images of dogs and cats. You will use TensorFlow 2.0 and Keras to create a convolutional neural network that correctly classifies images of cats and dogs at least 63% of the time. (Extra credit if you get it to 70% accuracy!)
 
-- Book Recommendation Engine using KNN
+- Book Recommendation Engine using KNN (fcc_book_recommendation_knn.ipynb)
 
 Create a book recommendation algorithm using K-Nearest Neighbors. 
 
-- Linear Regression Health Costs Calculator
+- Linear Regression Health Costs Calculator (fcc_linear_regression_health_costs_calculator.ipynb)
 
 Predict healthcare costs using a regression algorithm. You are given a dataset that contains information about different people including their healthcare costs. Use the data to predict healthcare costs based on new data.
 
-- Neural Network SMS Text Classifier
+- Neural Network SMS Text Classifier (fcc_neural_networks_sms_text_classifier.ipynb)
 
 Create a machine learning model that will classify SMS messages as either "ham" or "spam". A "ham" message is a normal message sent by a friend. A "spam" message is an advertisement or a message sent by a company.
